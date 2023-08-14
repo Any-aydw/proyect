@@ -1,0 +1,38 @@
+
+
+@media screen and (min-width:320px){
+    *{margin: 0;
+    padding: 0;
+    box-sizing:border-box
+    }
+}
+    body{
+        background-color: #b3a176;
+    }
+
+    header{
+    
+        background-image: url(./img/fondo\ gris.jpg);
+        width: 100%;
+        height: 400em;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        
+    }
+    .navegador{
+        display: flex;
+    }
+    
+    ul li a{
+        font-size: 1 rem;
+        color:#e2cb92;
+        text-decoration: none;
+        justify-content: center;
+    }
+        
+
+    
+
+    .titulo{
+        font-size: 1 rem;
+    }
