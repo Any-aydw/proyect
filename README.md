@@ -1,4 +1,4 @@
 EJERCICIO , REALIZACION DE PROYECTO QUE CONTENGA POR LO MENOS 3 SCROLL, VARIAS SECCIONES, UNA BARRA DE NAVEGACION, IMAGENES, ETC.
 # proyect
-![Uploading image.png…]()
+![image](https://github.com/Any-aydw/proyect/assets/142162372/96f8f697-3d5a-4fa4-b65b-ade8ddef7d7b)
 
